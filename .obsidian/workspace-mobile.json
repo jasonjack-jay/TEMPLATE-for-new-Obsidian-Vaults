@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "b6dce1656185034b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4321b4ee814ac25e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c5f987a41fe7b1f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HX/gemini.google.com - Gemini 2.5 Pro (2025-07-22).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "gemini.google.com - Gemini 2.5 Pro (2025-07-22)"
+            }
+          },
+          {
+            "id": "a985916a242420cd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HX/aistudio.google.com - Gemini 2.5 Pro.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "aistudio.google.com - Gemini 2.5 Pro"
+            }
+          },
+          {
+            "id": "d98f18acf7e2502d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HX/Claude Opus 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Claude Opus 4"
+            }
+          },
+          {
+            "id": "681fe99215afe1d2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HX/o3.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "o3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87bcb0eab0fe535c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e93221aae540284c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b674307c8c4a3576",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "237301bbc87d079d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "65506b2db0908ae9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b8021ba2dcdfc026",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e6f38d1513890676",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "IDEAS, PLANS, etc/Try NotepadLLM for HoliAI.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b9709a7778944591",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "IDEAS, PLANS, etc/Try NotepadLLM for HoliAI.md",
+            "linksCollapsed": true,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "0ccb99a6bb90fdd7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "IDEAS, PLANS, etc/Try NotepadLLM for HoliAI.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0c5f987a41fe7b1f",
+  "lastOpenFiles": [
+    "HX/Claude Opus 4.md",
+    "HX/o3.md",
+    "HX/aistudio.google.com - Gemini 2.5 Pro.md",
+    "HX/gemini.google.com - Gemini 2.5 Pro (2025-07-22).md",
+    "Micha Kaufman (CEO Fiverr) on AI is coming for your job.md",
+    "Email re Mikka AI taking jobs.md",
+    "Coding Prompts/From McKay Wrigley 25-02-18/3 - Planner Prompt - o1 pro.md",
+    "Coding Prompts/From McKay Wrigley 25-02-18/4 - Codegen Prompt - o1 pro.md",
+    "Coding Prompts/From McKay Wrigley 25-02-18/2 - Spec Prompt - o1 pro.md",
+    "Coding Prompts/From McKay Wrigley 25-02-18/README.md",
+    "Coding Prompts/From McKay Wrigley 25-02-18/1 - Request Prompt - o1 overkill, 4o good enough.md",
+    "IDEAS, PLANS, etc/Try NotepadLLM for HoliAI.md",
+    "Coding Prompts/kleneway/Prompts for converting a video to stories and to add notes to a task list.md",
+    "ARAI - active.md",
+    "Coding Prompts/From McKay Wrigley 25-02-18/Review Prompt.md",
+    "Coding Prompts/From McKay Wrigley 25-02-18/Codegen Prompt (XML).md",
+    "Coding Prompts/kleneway",
+    "Coding Prompts/From McKay Wrigley 25-02-18",
+    "Coding Prompts",
+    "Rules for ai - echohive.md",
+    "IDEAS, PLANS, etc/Combine.md",
+    "IDEAS, PLANS, etc",
+    "2024-08-27.md",
+    "Prompt Engineering/LearnToCode.md",
+    "Prompt Engineering/Links.md",
+    "2024-08-21.md",
+    "FOSS worthy/Pasted image 20240813051545.png",
+    "FOSS worthy/Fabric.md",
+    "FOSS worthy/FOSS worthy - Links.md",
+    "FOSS worthy/kani - framework for chat-based language models with tool usage (function calling).md",
+    "Kani.md",
+    "Courses",
+    "LLMs/Anthropic",
+    "Prompt Engineering",
+    "echolive/Cursor Composer stuff",
+    "LLMs",
+    "LLMs/OpenAI"
+  ]
+}

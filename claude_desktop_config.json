@@ -1,0 +1,24 @@
+{
+  "globalShortcut": "",
+  "mcpServers": {
+    "context7": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@upstash/context7-mcp@latest"
+      ]
+    },
+    "desktop-commander": {
+      "command": "npx",
+      "args": [
+        "@wonderwhy-er/desktop-commander@latest"
+      ]
+    },
+		"playwright": {
+			"command": "npx",
+			"args": [
+				"@playwright/mcp@latest"
+			]
+		}
+  }
+}
