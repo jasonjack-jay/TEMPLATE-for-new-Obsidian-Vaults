@@ -4,3 +4,4 @@ It's quite powerful, has loads of options, but just the default settings are oft
 
 *RECOMMENDED*
 
+If you can't find your clipping in here then check for a _Clippings_ folder. I've noticed the browser extension may be using that as a default.
