@@ -20,6 +20,10 @@ jason.jack@holidayextras.com
 # Last updated: 15 October 2025
 You may want to go to Options -> Community Plugins -> Check for updates
 
+--
+
+The original readme went like this:
+
 # Hello World!
 GitHub repositories usually have a README.md file in the root - hence this file.
 As we are here, might as well say -
