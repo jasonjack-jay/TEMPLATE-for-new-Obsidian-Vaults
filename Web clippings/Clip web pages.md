@@ -9,6 +9,6 @@ description: "Properties - Obsidian Help"
 tags:
   - "clippings"
 ---
-Say something about [Clip web pages](https://help.obsidian.md/web-clipper/capture)
+Say something about [Clip web pages](https://help.obsidian.md/web-clipper/capture) <-- This is the default if you do not make any changes to the extension. 
 
 
