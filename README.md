@@ -1,4 +1,7 @@
-# About
+# Last updated
+5th December 2025
+
+## About
 This is Jay's highly opinionated idea on a good place to start with Obsidian. Not too much, not too little - just Goldilocks level.
 
 ## How to use

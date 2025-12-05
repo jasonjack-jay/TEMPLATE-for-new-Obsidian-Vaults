@@ -1,5 +1,7 @@
 There is a browser extension that lets you quickly rip web pages, or highlights of bits of web pages, directly into Obsidian.
 
+Chrome extension link: https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf
+
 It's quite powerful, has loads of options, but just the default settings are often good enough.
 
 *RECOMMENDED*

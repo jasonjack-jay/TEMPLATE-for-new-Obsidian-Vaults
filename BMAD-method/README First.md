@@ -1,13 +1,6 @@
-Notes here last updated just as V6 was in early alpha. Strongly advise you stick with V4 (for software development use) for the time being.
+My latest QnD Guide to BMAD (V6) is here: https://holidayextras.getoutline.com/doc/bmad-v6-some-notes-that-may-help-get-you-started-PiwS2IcReS
 
-[Link to the repo](https://github.com/bmad-code-org/BMAD-METHOD)
-
-Suggest you clone a copy locally.
-Then you can ... e.g. point Claude Desktop at it. Or use repomix to make a flattened 'best bits' for use as a Professor knowledge pack.
-
-**It gets updated almost daily. Remember to Fetch regularly and Pull updates.**
-
-# Why this?
+# Why BMAD?
 It's good.
 Yes, there are others. 
-Right now this is the best.
+Right now, as far as I can tell, this is the best.
